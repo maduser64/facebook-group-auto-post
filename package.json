@@ -1,0 +1,14 @@
+{
+  "name": "facebook_group_poster",
+  "version": "1.0.0",
+  "description": "Facebook Group Auto Poster ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zahid rahman (https://fb.com/zahid.rahman.50)",
+  "license": "ISC",
+  "dependencies": {
+    "fbgraph": "^1.3.0"
+  }
+}
